@@ -10,7 +10,7 @@ PTL is an acronym from Pages Transition Loader. ptl.js is made with `Vanilla JS`
 
 2. Customize the loading indicator.
 ```javascript
-let e = { 
+let settings = { 
   opacity: 0.9, 
   backgroundColor: "#FFFFFF", 
   color: "#333333", 
