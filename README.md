@@ -25,7 +25,7 @@ let settings = {
 ```
 
 Detail information about the settings
-| Setting Name | Default | Documenttation |
+| Setting Name | Default | Documentation |
 |---|---|---|
 | opacity | 0.9 | [see more](https://www.w3schools.com/css/css_image_transparency.asp) |
 | backgroundColor | #FFFFFF | [see more](https://www.w3schools.com/cssref/pr_background-color.php) |
