@@ -5,8 +5,15 @@ PTL is an acronym from Pages Transition Loader. ptl.js is made with `Vanilla JS`
 [See Here](https://dyazincahya.github.io/ptl-js/example/)
 ### How to use it?
  1. Load the vanilla-js-pages-transition-loader.min.js script in your document.
+
+**Load via Local File**
  ```html
 <script src="plt.min.js"></script>
+```
+
+**Load via CDN**
+ ```html
+<script src="https://cdn.jsdelivr.net/gh/dyazincahya/ptl-js@main/ptl.min.js"></script>
 ```
 
 2. Customize the loading indicator.
