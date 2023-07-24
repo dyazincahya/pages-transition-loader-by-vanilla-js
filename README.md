@@ -1,7 +1,8 @@
 ![icon](https://raw.githubusercontent.com/dyazincahya/ptl-js/main/icon.png)
 # ptl.js
 PTL is an acronym from Pages Transition Loader. ptl.js is made with `Vanilla JS` or what we usually call `Pure Javascript`
-
+### Demo 
+[See Here](https://dyazincahya.github.io/ptl-js/example/)
 ### How to use it?
  1. Load the vanilla-js-pages-transition-loader.min.js script in your document.
  ```html
@@ -25,7 +26,7 @@ let settings = {
 ```
 
 Detail information about the settings
-| Setting Name | Default | Documentation |
+| Option | Default | Documentation |
 |---|---|---|
 | opacity | 0.9 | [see more](https://www.w3schools.com/css/css_image_transparency.asp) |
 | backgroundColor | #FFFFFF | [see more](https://www.w3schools.com/cssref/pr_background-color.php) |
